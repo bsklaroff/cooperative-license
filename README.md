@@ -6,10 +6,10 @@ The [Cooperative License](cooperative-license.md) is an open-source license for 
 
 At a high-level, the license is quite permissive for worker cooperatives and nonprofits:
 - They can use, modify, and sell the licensed software without any requirement to publish the source code of derivative works
-- If they do publish or otherwise distribute the source code of a derivative work, it must licensed under the Cooperative License
+- If they do publish or otherwise distribute the source code of the software (including modified versions), it must licensed under the Cooperative License
 
 For other for-profit or government entities, the license is a bit more restrictive:
-- They can use, modify, and sell the licensed software, including as part of a larger work (e.g. as a library in a SAAS product), as long as they publish the source of any derivative work under the Cooperative License
+- They can use, modify, and sell the licensed software, including as part of a larger work (e.g. as a library in a SAAS product), as long as they publish the source of the software (including modified versions) under the Cooperative License
 
 Also, anybody can convert the license to AGPLv3 if they prefer.
 
