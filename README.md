@@ -9,7 +9,7 @@ At a high-level, the license is quite permissive for worker cooperatives and non
 - If they do publish or otherwise distribute the source code of the software (including modified versions), it must licensed under the Cooperative License
 
 For other for-profit or government entities, the license is a bit more restrictive:
-- They can use, modify, and sell the licensed software, including as part of a larger work (e.g. as a library in a SAAS product), as long as they publish the source of the software (including modified versions) under the Cooperative License
+- They can use, modify, and sell the licensed software, including as part of a larger work (e.g. as a library in a SAAS product), as long as they publish the source of the software (including modified versions, but not including the rest of the larger work) under the Cooperative License
 
 Also, anybody can convert the license to AGPLv3 if they prefer.
 
